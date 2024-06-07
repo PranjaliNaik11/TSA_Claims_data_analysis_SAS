@@ -36,5 +36,3 @@ To run the analysis:
 ## Note
 
 This project is for educational and illustrative purposes only. The provided requirements are specific to this case study and do not represent actual TSA requirements.
-
-Copyright © 2018, SAS Institute Inc., Cary, North Carolina, USA. ALL RIGHTS RESERVED.
