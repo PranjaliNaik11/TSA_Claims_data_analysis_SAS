@@ -2,7 +2,7 @@
 
 This project aims to prepare and analyze TSA claims data using SAS programming language. The requirements for this project are provided by the course instructor and are tailored specifically for this case study. It's important to note that these requirements are not an accurate representation of TSA requirements.
 
-## Data Requirements
+## Data Requirements:
 
 - **Raw Data File:** The raw data file `TSAClaims2002_2017.csv` must be imported into SAS and stored in a file named `claims_cleaned` in the `tsa` library.
 - **Data Cleaning:** Remove entirely duplicated records. Replace missing and '-' values in columns `Claim_Type`, `Claim_Site`, and `Disposition` with 'Unknown'.
